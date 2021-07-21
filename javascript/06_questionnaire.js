@@ -48,4 +48,7 @@ if(nbBonneReponse <=3){
     alert('Bien jouez, vous pouvez fair du LONGBOARD a Wakiki beach !!!');
 }
 
+else{
+    alert('Tu dois réviser');
+}
 
